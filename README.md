@@ -1,0 +1,2 @@
+# Modeling-Moment-Magnitude
+This repository contains the code and dataset used in my research project on modeling the moment magnitude of earthquakes along the Java Megathrust subduction zone. The project involves statistical modeling, composite distribution fitting, and Monte Carlo simulations to generate synthetic earthquake catalogs for hazard analysis and risk assessment.
